@@ -1,2 +1,3 @@
 # Calculator
-Created a calculator for TOP assignment.
+This is a calculator project for a TOP assignment.
+
